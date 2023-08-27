@@ -16,7 +16,14 @@
 
 ### Sobre mim
 
-Atualmente, estou cursando a minha segunda graduação.<br> 
+Atualmente, estou cursando a segunda graduação.<br> 
 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul e, <br> atualmente, estou cursando Sistemas para Internet com foco em Desenvolvimento Mobile na Faculdade FMU. <br>
 
 Estou em busca de um estágio na área de desenvolvimento.
+
+### Projetos
+
+Este é o primeiro projeto que fiz neste tempo de estudos,<br>
+Atualmente estou desenvolvendo meu portifolio.
+
+# https://ricardobsan.github.io/projetoOdonto/index.html
