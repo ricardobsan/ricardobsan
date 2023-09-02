@@ -29,7 +29,7 @@ Atualmente estou desenvolvendo meu portifolio.
 # https://ricardobsan.github.io/projetoOdonto/index.html
 ----------------------------------------------------------------------------------------------------------------------- <br>
 
-Projetos aleatorios para treinamento de HTML CSS, JavaScript: 
+### Projetos aleatorios para treinamento de HTML CSS, JavaScript: 
 
 Primeiro projeto que finalizei na vida 😃
 ## https://ricardobsan.github.io/PrimeiroProjeto-20-07-23/
