@@ -27,3 +27,17 @@ Este é o primeiro projeto que fiz neste tempo de estudos,<br>
 Atualmente estou desenvolvendo meu portifolio.
 
 # https://ricardobsan.github.io/projetoOdonto/index.html
+----------------------------------------------------------------------------------------------------------------------- <br>
+
+Projetos aleatorios para treinamento de HTML CSS, JavaScript: 
+
+Primeiro projeto que finalizei na vida 😃
+## https://ricardobsan.github.io/PrimeiroProjeto-20-07-23/
+
+Calculadora Simples:
+## https://ricardobsan.github.io/ProjetoCalculadoraSimples/
+<br>
+<br>
+<br>
+<br>
+<br>
