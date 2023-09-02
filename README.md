@@ -2,8 +2,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-batista-dos-santos/)
 
 
-![Ricardo Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardobsan&show_icons=true&theme=highcontrast)
-
+<!--![Ricardo Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardobsan&show_icons=true&theme=highcontrast)
+-->
 ### Tecnologias que estou cursando 
 <div style="display: inline-block;">
     <img  align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
