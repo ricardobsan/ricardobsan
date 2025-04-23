@@ -34,8 +34,8 @@ Atualmente estou desenvolvendo meu portifolio.
 Primeiro projeto que finalizei na vida 😃
 ## https://ricardobsan.github.io/PrimeiroProjeto-20-07-23/
 
-Calculadora Simples:
-## https://ricardobsan.github.io/ProjetoCalculadoraSimples/
+To-Do List:
+[## https://ricardobsan.github.io/ProjetoCalculadoraSimples/](https://ricardobsan.github.io/ListaDeTarefas/)
 <br>
 <br>
 <br>
