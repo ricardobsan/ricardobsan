@@ -35,7 +35,7 @@ Primeiro projeto que finalizei na vida 😃
 ## https://ricardobsan.github.io/PrimeiroProjeto-20-07-23/
 
 To-Do List:
-[## https://ricardobsan.github.io/ProjetoCalculadoraSimples/](https://ricardobsan.github.io/ListaDeTarefas/)
+## https://ricardobsan.github.io/ProjetoCalculadoraSimples/](https://ricardobsan.github.io/ListaDeTarefas/
 <br>
 <br>
 <br>
