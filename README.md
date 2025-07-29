@@ -30,10 +30,10 @@ Atualmente, busco oportunidades como **estagiário ou júnior** em desenvolvimen
 
 ## 💼 Experiência
 
-- **Cyrrus Next Systems** (Atual)  
-  Desenvolvimento Front-End com Angular, Ionic, Node.js e Firebase.
+- **Cyrrus Next Systems** – Estágio em Desenvolvimento Front-End (Atual)  
+  Desenvolvimento com Angular, Ionic, Node.js e Firebase.
 
-- **TT&T Soluções em Informática LTDA**  
+- **TT&T Soluções em Informática LTDA** – Estágio em Desenvolvimento Front-End  
   Interfaces responsivas com React Native e Styled Components.
 
 - **Experiências anteriores em suporte técnico** com foco em TI corporativa.
